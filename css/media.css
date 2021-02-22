@@ -1,0 +1,47 @@
+@media (max-width: 1901px) {
+    .img-5,
+    .img-6, 
+    .img-7 {
+        margin: 0 0 0 6%;
+    }
+}
+
+@media (max-width: 1801px) {
+    .img-5,
+    .img-6, 
+    .img-7 {
+        margin: 0 0 0 5%;
+    }
+}
+
+@media (max-width: 1701px) {
+    .img-5,
+    .img-6, 
+    .img-7 {
+        margin: 0 0 0 4%;
+    }
+}
+
+@media (max-width: 1660px) {
+    .img-5,
+    .img-6, 
+    .img-7 {
+        margin: 0 0 0 3%;
+    }
+}
+
+@media (max-width: 1620px) {
+    .img-5,
+    .img-6, 
+    .img-7 {
+        margin: 0 0 0 2%;
+    }
+}
+
+@media (max-width: 1559px) {
+    .img-5,
+    .img-6, 
+    .img-7 {
+        margin: 0 0 0 1%;
+    }
+}
